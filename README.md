@@ -1,2 +1,0 @@
-# ColorGuessr
-Guess the color
