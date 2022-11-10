@@ -4,7 +4,7 @@ import styles from './ColorCard.module.scss';
 const ColorCard = () => {
     return (
         <div className={styles.colorCard}>
-            <p>🤔</p>
+            <p>🧐</p>
         </div>
     )
 }
